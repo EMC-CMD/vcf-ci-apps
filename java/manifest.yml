@@ -1,0 +1,5 @@
+---
+applications:
+- name: java
+  buildpack: java_buildpack_offline
+  path: target/java-1.0-SNAPSHOT.jar
