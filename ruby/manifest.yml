@@ -1,0 +1,7 @@
+---
+applications:
+- name: ruby
+  memory: 256M
+  instances: 1
+  path: .
+  command: ruby server.rb
